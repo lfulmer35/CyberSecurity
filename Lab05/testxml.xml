@@ -1,0 +1,24 @@
+
+
+
+<?xml version="1.0"?>
+<doc>
+    <branch name="First Name Option" hash="First Hash Option">
+        First Text
+    </branch>
+    <branch name="Second Name Option" hash="Second Name Hash Option">
+        Second Text
+        <sub-branch name="Second Name Sub-branch">
+            Second sub-Text
+        </sub-branch>
+    </branch>
+    <branch name="Third Name Option">
+        Third Text
+    </branch>
+    <branch name="Fourth Name Option">
+        Fourth Text
+        <sub-branch name="Fourth Name Sub-branch">
+            Fourth sub-text
+        </sub-branch>
+    </branch>
+</doc>
